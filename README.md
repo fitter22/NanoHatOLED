@@ -1,5 +1,8 @@
 ## **NanoHat OLED**
 
+This repository contains a modified NanoHatOLED scripts, which turns off the OLED one 
+minute after the last button press to avoid the screen burn-in.
+
 Example code of correct use and start for the NanoHat OLED.  
 
 Designed specifically to work with the NanoHat OLED:
